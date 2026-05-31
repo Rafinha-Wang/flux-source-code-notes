@@ -1,5 +1,6 @@
 # flux-source-code-notes
 Chinese Annotations and Conceptual Analysis of the FLUX Core Source Code
+中文注释与FLUX核心源代码的概念分析
 
 This project provides a detailed, Chinese-annotated walkthrough of the [official FLUX.1 repository](https://github.com/black-forest-labs/flux.git). It is designed to help AI developers, researchers, and anyone interested in the underlying mechanics of generative models better understand this advanced image generation architecture with a lower barrier to entry.
 
